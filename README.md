@@ -1,3 +1,3 @@
-# hello-world
-My first repository, nothing important
+# About me
 I'm novice in web-developing. Studing PHP, JavaScript, MySQL, HTML, CSS, XML and etc.
+More about me on www.vasyldemianiuk.com
